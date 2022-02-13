@@ -1,0 +1,33 @@
+
+.tablasMenu {
+	background-color: black;
+}
+
+.colorLetra {
+	color: red;
+
+}
+.imagenCarga {
+	padding-right: 100px;
+}
+
+.tablaBorde {
+	border-color: red;
+	border: 10px;
+}
+
+#tituloGeneros{
+	padding-top: 15px;
+	font-size: 30px;
+}
+
+
+#tablaGenerosIz{
+	padding-left: 15px;
+
+}
+
+#tablaGenerosDer{
+	padding-right: 15px;
+}
+
